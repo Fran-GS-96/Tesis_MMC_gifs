@@ -1,5 +1,7 @@
 # Caracterización de patrones sinópticos que favorecen tormentas eléctricas de verano en la cordillera de los Andes de la zona centro-sur de Chile
 
+![](https://github.com/Fran-GS-96/Tesis_MMC_gifs/blob/main/sinoptica_dia0.gif)
+
 ![](https://github.com/Fran-GS-96/Tesis_MMC_gifs/blob/main/z500-mslp-relvort.gif) ![](https://github.com/Fran-GS-96/Tesis_MMC_gifs/blob/main/a_z500_a-mslp.gif)
 
 ![](https://github.com/Fran-GS-96/Tesis_MMC_gifs/blob/main/stations_all.gif)
